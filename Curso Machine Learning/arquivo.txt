@@ -1,0 +1,20 @@
+Descrição | Despesas | 
+BB | 37.30 
+TIM | 40.00 
+Tenda | 14.00 
+Pneus | 150.00 
+Gasolina | 35.00 
+Gasolina | 55.00 
+Japones | 31.00 
+Mateus | 50.00 
+Cartao | 300.00 
+Aluguel | 600.00 
+AlmoÃ§o | 30.00 
+Dizimo | 170.00 
+Energia | 29.53 
+Energia | 28.14 
+Foto | 20.00 
+TOTAL GERAL
+Total Entradas: 1724.99 
+Total Saidas: 1589.97 
+TOTAL Restante: 135.02 
